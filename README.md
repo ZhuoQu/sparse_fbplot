@@ -1,11 +1,11 @@
 # sparse_fbplot
 code for the paper sparse functional boxplots for multivariate curves
 
-1. To obtain Figure 1 for the CD4 cell count application, run "00_plot_cd4.R" in the CD4 folder in the CD4 folder under the application path.
-To obtain Figure 6 for the CD4 cell count application, run "00_plot_cd4.R" to "03_visualize_cd4.R" in the CD4 folder in the application path.
+1. To obtain Figure 1 for the CD4 cell count application, run "00_plot_cd4.R".
+To obtain Figure 6 for the CD4 cell count application, run "00_plot_cd4.R" to "03_visualize_cd4.R".
 
-2. To obtain Figure 2 for the malnutrition data application, run "00_malnutrition.R" in the malnutrition folder in the application path.
-To obtain Figure 7 for the malnutrition data application, run "00_malnutrition.R" to "03_malnutrition_visualization.R" in the malnutrition folder in the application path.
+2. To obtain Figure 2 for the malnutrition data application, run "00_malnutrition.R".
+To obtain Figure 7 for the malnutrition data application, run "00_malnutrition.R" to "03_malnutrition_visualization.R".
 
 3. To obtain Figure 3, run unidata_visualize.R. The samples are generated randomly, so the specific pattern maybe different.
 
