@@ -12,7 +12,7 @@ To obtain Figure 7 for the malnutrition data application, run "00_malnutrition.R
 4. To obtain Figure 4, run exe_plotsim_sparse.R. 
 # Only Models 1,2 and 4 are shown in the manuscipts and the remaining models are shown as Figure S1 in the supplementary material.
 
-5. To obtain each plot in Figure 5, first run "00_execute_simulation_spearman.R"" and change the ``outlierst'' setting, second "01_run plot_boxplot_optimaldepth.R".
+5. To obtain each plot in Figure 5, first run "00_execute_simulation_spearman.R" and change the ``outlierst'' setting, second "01_run plot_boxplot_optimaldepth.R".
 If we change the ``sparsity'' variable, we can get similar figures shown as Figure S2 in the supplementary material.
 
 6. To obtain table 1, run execute_outl_detect.R, specify ``outlierst" for eight models, and change the ``sparsity'' for Table S1 in the supplementary material.
