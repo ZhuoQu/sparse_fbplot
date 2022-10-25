@@ -1,5 +1,5 @@
-# sparse_fbplot
-code for the paper sparse functional boxplots for multivariate curves
+# Sparse Functional Boxplot
+Code for the paper sparse functional boxplots for multivariate curves
 
 1. To obtain Figure 1 for the CD4 cell count application, run "00_plot_cd4.R".
 To obtain Figure 6 for the CD4 cell count application, run "00_plot_cd4.R" to "03_visualize_cd4.R".
