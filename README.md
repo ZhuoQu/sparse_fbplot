@@ -16,3 +16,9 @@ To obtain Figure 7 for the malnutrition data application, run "00_malnutrition.R
 If we change the ``sparsity'' variable, we can get similar figures shown as Figure S2 in the supplementary material.
 
 6. To obtain table 1, run execute_outl_detect.R, specify ``outlierst" for eight models, and change the ``sparsity'' for Table S1 in the supplementary material.
+
+
+### To apply your data to the sparse functional boxplot, please check sparse_fbplot.R
+
+
+### To apply your data to the intensity sparse functional boxplot, please check intensity_sparse_fbplot.R
